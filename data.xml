@@ -1,0 +1,15 @@
+<data>
+  <people>
+    <!-- Please note that people has to be setup a certain way -->
+    <!-- It Must have all the tags listed below to show -->
+    <!-- 
+        !IMPORTANT! --To leave an element blank input 'none_disable' this will leave it blank--
+        <name> - will display the name of the person __ Can only have one tag
+        <pic> - (must use a url) put none if no pic, this will display the picture of the person __ Can only have one tag
+        <description> - display a description __ Can only have one tag
+        <other> - put text at the bottom __ Can have unlimited tags
+        <experience> - put a level of experience __ Can only have one tag
+        
+    -->
+  </people>
+</data>
